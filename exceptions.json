@@ -1,0 +1,17 @@
+{
+	"SCHEMA":{
+		"TABLEA":{
+			"PLANT": ["PLANTA"],
+			"MATERIAL": ["MATERIAL"],
+			"CALDAY": ["FECHALARGA"],
+			"CALMONTH": ["FECHACORTA"]
+		},
+
+		"TABLEB":{
+			"PLANT": ["PLANTA"],
+			"MATERIAL": ["MATERIAL"],
+			"CALMONTH": ["FECHACORTA"]
+		}
+		
+	}
+}
